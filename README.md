@@ -4,7 +4,7 @@ Welcome to the **Chat App**! This is a real-time chat application built with mod
 
 ## Demo
 
-[![Demo Video](./screenshots/thumbnail.png)](./screenshots/chat-app.mp4)
+https://github.com/user-attachments/assets/80edc39c-7472-4ca4-824e-9255302b25a7
 
 ## Features
 
