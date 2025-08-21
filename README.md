@@ -2,6 +2,10 @@
 
 Welcome to the **Chat App**! This is a real-time chat application built with modern web technologies. It allows users to communicate seamlessly with features like real-time messaging, user authentication, and profile management.
 
+## Demo
+
+[![Demo Video](./screenshots/thumbnail.png)](./screenshots/chat-app.mp4)
+
 ## Features
 
 - **Real-Time Messaging**: Send and receive messages instantly using WebSockets.
