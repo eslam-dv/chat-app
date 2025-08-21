@@ -1,0 +1,14 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "pnpm --prefix ./server install && pnpm --prefix ./client install && pnpm --prefix ./server build && pnpm --prefix ./client build",
+    "start": "pnpm --prefix ./server start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.14.0"
+}
