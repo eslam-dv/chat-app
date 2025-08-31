@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "pnpm --prefix ./server install && pnpm --prefix ./client install && pnpm --prefix ./server build && pnpm --prefix ./client build",
-    "start": "pnpm --prefix ./server start"
+    "build": "npm --prefix ./server install && npm --prefix ./client install && npm --prefix ./server build && npm --prefix ./client build",
+    "start": "npm --prefix ./server start"
   },
   "keywords": [],
   "author": "",
