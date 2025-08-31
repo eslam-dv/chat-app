@@ -3,6 +3,7 @@
 Welcome to the **Chat App**! This is a real-time chat application built with modern web technologies. It allows users to communicate seamlessly with features like real-time messaging, user authentication, and profile management.
 
 ## Demo
+live demo [here](https://chat-app-production-6574.up.railway.app/)
 
 https://github.com/user-attachments/assets/80edc39c-7472-4ca4-824e-9255302b25a7
 
